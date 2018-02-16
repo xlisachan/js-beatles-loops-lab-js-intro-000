@@ -21,5 +21,4 @@ function johnLennonFacts() {
     i++;
   }
   return johnLennonArray;
-}  
-
+}
