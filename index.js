@@ -7,5 +7,5 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 function johnLennonFacts(johnLennonFacts) {
-  return johnLennonFacts;
+  return sentence = (johnLennonFacts + "!!!");
 }
