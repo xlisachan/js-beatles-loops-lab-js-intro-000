@@ -16,7 +16,7 @@ function johnLennonFacts() {
   var johnLennonArray = [];
   var factsIndex = 0;
   while (factsIndex < facts.length) {
-    johnLennonSentence = facts[factsIndex] + "!!!";
+    var johnLennonSentence = facts[factsIndex] + "!!!";
     johnLennonArray.push(johnLennonSentence);
     i++;
   }
